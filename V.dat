@@ -1,0 +1,24 @@
+# Created by Octave 3.8.0, Wed Jan 20 09:43:26 2016 CST <billerucho95@Adrians-Mac.local>
+# name: A
+# type: matrix
+# rows: 2
+# columns: 3
+ 1 2 3
+ 4 5 6
+
+
+# name: B
+# type: matrix
+# rows: 2
+# columns: 3
+ 7 8 9
+ 10 11 12
+
+
+# name: a
+# type: matrix
+# rows: 1
+# columns: 4
+ 25 15 100 4
+
+
